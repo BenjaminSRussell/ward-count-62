@@ -463,3 +463,6 @@
 {"n":463,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the crate at Mast yard. Nobody past the east slip. We push in 3 steps. Arc on the left lane, open."}
 {"n":464,"kind":"place","name":"Mast yard east slip","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Mast yard east slip. Ivo keeps the crate for the push. 4 steps, arc on the left lane, open."}
 {"n":465,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, east slip. arc left open. 5 steps. The crate stays for the push."}
+{"n":466,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the crate at Mast yard. Nobody past the east slip. We push in 6 steps. Arc on the left lane, open."}
+{"n":467,"kind":"place","name":"Mast yard east slip","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Mast yard east slip. Bess keeps the crate for the push. 7 steps, arc on the left lane, open."}
+{"n":468,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, east slip. arc left open. 8 steps. The crate stays for the push."}
