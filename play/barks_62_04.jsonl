@@ -297,3 +297,6 @@
 {"n":297,"kind":"place","name":"Last Light west slip","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Last Light west slip. Nia keeps the awning for the push. 6 steps, arc on the left lane, open."}
 {"n":298,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Last Light, west slip. arc left open. 7 steps. The awning stays for the push."}
 {"n":299,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the awning at Last Light. Nobody past the west slip. We push in 8 steps. Arc on the left lane, open."}
+{"n":300,"kind":"place","name":"Last Light west slip","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Last Light west slip. Ivo keeps the awning for the push. 2 steps, arc on the left lane, open."}
+{"n":301,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Last Light, west slip. arc left open. 3 steps. The awning stays for the push."}
+{"n":302,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the awning at Last Light. Nobody past the west slip. We push in 4 steps. Arc on the left lane, open."}
