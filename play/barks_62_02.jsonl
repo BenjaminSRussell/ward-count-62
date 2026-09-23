@@ -377,3 +377,6 @@
 {"n":377,"kind":"place","name":"Kessler alley south roof","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Kessler alley south roof. Nia keeps the drum for the push. 4 steps, arc on the left lane, open."}
 {"n":378,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, south roof. arc left open. 5 steps. The drum stays for the push."}
 {"n":379,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the drum at Kessler alley. Nobody past the south roof. We push in 6 steps. Arc on the left lane, open."}
+{"n":380,"kind":"place","name":"Kessler alley south roof","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Kessler alley south roof. Ivo keeps the drum for the push. 7 steps, arc on the left lane, open."}
+{"n":381,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, south roof. arc left open. 8 steps. The drum stays for the push."}
+{"n":382,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the drum at Kessler alley. Nobody past the south roof. We push in 2 steps. Arc on the left lane, open."}
