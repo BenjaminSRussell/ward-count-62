@@ -179,3 +179,6 @@
 {"n":179,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the shutter at Switchyard. Nobody past the west slip. We push in 7 steps. Arc on the left lane, open."}
 {"n":180,"kind":"place","name":"Switchyard west slip","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Switchyard west slip. Ivo keeps the shutter for the push. 8 steps, arc on the left lane, open."}
 {"n":181,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, west slip. arc left open. 2 steps. The shutter stays for the push."}
+{"n":182,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the shutter at Switchyard. Nobody past the west slip. We push in 3 steps. Arc on the left lane, open."}
+{"n":183,"kind":"place","name":"Switchyard west slip","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Switchyard west slip. Bess keeps the shutter for the push. 4 steps, arc on the left lane, open."}
+{"n":184,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, west slip. arc left open. 5 steps. The shutter stays for the push."}
