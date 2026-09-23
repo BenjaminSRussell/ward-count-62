@@ -13,3 +13,6 @@
 {"n":13,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, north slip. arc left open. 6 steps. The plywood stays for the push."}
 {"n":14,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the plywood at the pier. Nobody past the north slip. We push in 7 steps. Arc on the left lane, open."}
 {"n":15,"kind":"place","name":"the pier north slip","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"the pier north slip. Bess keeps the plywood for the push. 8 steps, arc on the left lane, open."}
+{"n":16,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, north slip. arc left open. 2 steps. The plywood stays for the push."}
+{"n":17,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the plywood at Clinic roof. Nobody past the north slip. We push in 3 steps. Arc on the left lane, open."}
+{"n":18,"kind":"place","name":"Clinic roof north slip","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Clinic roof north slip. Matt keeps the plywood for the push. 4 steps, arc on the left lane, open."}
