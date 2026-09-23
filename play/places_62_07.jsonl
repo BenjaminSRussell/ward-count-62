@@ -337,3 +337,6 @@
 {"n":337,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, north slip. arc left open. 8 steps. The barrel stays for the push."}
 {"n":338,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the barrel at South stair. Nobody past the north slip. We push in 2 steps. Arc on the left lane, open."}
 {"n":339,"kind":"place","name":"South stair north slip","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"South stair north slip. Bess keeps the barrel for the push. 3 steps, arc on the left lane, open."}
+{"n":340,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, north slip. arc left open. 4 steps. The barrel stays for the push."}
+{"n":341,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the barrel at the pier. Nobody past the north slip. We push in 5 steps. Arc on the left lane, open."}
+{"n":342,"kind":"place","name":"the pier north slip","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"the pier north slip. Matt keeps the barrel for the push. 6 steps, arc on the left lane, open."}
