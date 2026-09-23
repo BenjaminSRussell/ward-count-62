@@ -363,3 +363,6 @@
 {"n":363,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, east slip. arc left open. 8 steps. The barrel stays for the push."}
 {"n":364,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the barrel at Drydock. Nobody past the east slip. We push in 2 steps. Arc on the left lane, open."}
 {"n":365,"kind":"place","name":"Drydock east slip","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Drydock east slip. Nia keeps the barrel for the push. 3 steps, arc on the left lane, open."}
+{"n":366,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, east slip. arc left open. 4 steps. The barrel stays for the push."}
+{"n":367,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the barrel at Drydock. Nobody past the east slip. We push in 5 steps. Arc on the left lane, open."}
+{"n":368,"kind":"place","name":"Drydock east slip","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Drydock east slip. Ivo keeps the barrel for the push. 6 steps, arc on the left lane, open."}
