@@ -343,3 +343,6 @@
 {"n":343,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the pier, north slip. arc left open. 7 steps. The barrel stays for the push."}
 {"n":344,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the barrel at the pier. Nobody past the north slip. We push in 8 steps. Arc on the left lane, open."}
 {"n":345,"kind":"place","name":"the pier north slip","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"the pier north slip. Nia keeps the barrel for the push. 2 steps, arc on the left lane, open."}
+{"n":346,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the pier, north slip. arc left open. 3 steps. The barrel stays for the push."}
+{"n":347,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the barrel at the pier. Nobody past the north slip. We push in 4 steps. Arc on the left lane, open."}
+{"n":348,"kind":"place","name":"the pier north slip","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"the pier north slip. Ivo keeps the barrel for the push. 5 steps, arc on the left lane, open."}
