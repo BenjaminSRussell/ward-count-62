@@ -383,3 +383,6 @@
 {"n":383,"kind":"place","name":"Kessler alley south roof","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Kessler alley south roof. Bess keeps the drum for the push. 3 steps, arc on the left lane, open."}
 {"n":384,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, south roof. arc left open. 4 steps. The drum stays for the push."}
 {"n":385,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the drum at the Lot. Nobody past the south roof. We push in 5 steps. Arc on the left lane, open."}
+{"n":386,"kind":"place","name":"the Lot south roof","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"the Lot south roof. Matt keeps the drum for the push. 6 steps, arc on the left lane, open."}
+{"n":387,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Lot, south roof. arc left open. 7 steps. The drum stays for the push."}
+{"n":388,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the drum at the Lot. Nobody past the south roof. We push in 8 steps. Arc on the left lane, open."}
