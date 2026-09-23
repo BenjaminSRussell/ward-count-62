@@ -533,3 +533,6 @@
 {"n":533,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, south slip. arc left open. 6 steps. The crate stays for the push."}
 {"n":534,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the crate at the pier. Nobody past the south slip. We push in 7 steps. Arc on the left lane, open."}
 {"n":535,"kind":"place","name":"the pier south slip","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"the pier south slip. Bess keeps the crate for the push. 8 steps, arc on the left lane, open."}
+{"n":536,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, south slip. arc left open. 2 steps. The crate stays for the push."}
+{"n":537,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the crate at Clinic roof. Nobody past the south slip. We push in 3 steps. Arc on the left lane, open."}
+{"n":538,"kind":"place","name":"Clinic roof south slip","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Clinic roof south slip. Matt keeps the crate for the push. 4 steps, arc on the left lane, open."}
