@@ -775,3 +775,6 @@
 {"n":775,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Stockyard fence, north slip. arc left open. 5 steps. The rebar stays for the push."}
 {"n":776,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the rebar at Stockyard fence. Nobody past the north slip. We push in 6 steps. Arc on the left lane, open."}
 {"n":777,"kind":"place","name":"Stockyard fence north slip","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Stockyard fence north slip. Nia keeps the rebar for the push. 7 steps, arc on the left lane, open."}
+{"n":778,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, north slip. arc left open. 8 steps. The rebar stays for the push."}
+{"n":779,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the rebar at Stockyard fence. Nobody past the north slip. We push in 2 steps. Arc on the left lane, open."}
+{"n":780,"kind":"place","name":"Stockyard fence north slip","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Stockyard fence north slip. Ivo keeps the rebar for the push. 3 steps, arc on the left lane, open."}
