@@ -409,3 +409,6 @@
 {"n":409,"kind":"place","name":"the Underpass north roof","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"the Underpass north roof. Nia keeps the drum for the push. 3 steps, arc on the left lane, open."}
 {"n":410,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Underpass, north roof. arc left open. 4 steps. The drum stays for the push."}
 {"n":411,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the drum at the Underpass. Nobody past the north roof. We push in 5 steps. Arc on the left lane, open."}
+{"n":412,"kind":"place","name":"the Underpass north roof","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"the Underpass north roof. Ivo keeps the drum for the push. 6 steps, arc on the left lane, open."}
+{"n":413,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Underpass, north roof. arc left open. 7 steps. The drum stays for the push."}
+{"n":414,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the drum at the Underpass. Nobody past the north roof. We push in 8 steps. Arc on the left lane, open."}
