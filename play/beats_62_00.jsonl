@@ -342,3 +342,6 @@
 {"n":342,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the awning at High line. Nobody past the north roof. We push in 6 steps. Arc on the left lane, open."}
 {"n":343,"kind":"place","name":"High line north roof","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"High line north roof. Bess keeps the awning for the push. 7 steps, arc on the left lane, open."}
 {"n":344,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, north roof. arc left open. 8 steps. The awning stays for the push."}
+{"n":345,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the drum at Ward gate. Nobody past the north roof. We push in 2 steps. Arc on the left lane, open."}
+{"n":346,"kind":"place","name":"Ward gate north roof","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Ward gate north roof. Matt keeps the drum for the push. 3 steps, arc on the left lane, open."}
+{"n":347,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, north roof. arc left open. 4 steps. The drum stays for the push."}
