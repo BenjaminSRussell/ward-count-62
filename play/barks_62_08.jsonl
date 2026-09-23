@@ -932,3 +932,6 @@
 {"n":932,"kind":"place","name":"Kessler alley south slip","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Kessler alley south slip. Ivo keeps the plywood for the push. 7 steps, arc on the left lane, open."}
 {"n":933,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, south slip. arc left open. 8 steps. The plywood stays for the push."}
 {"n":934,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the plywood at Kessler alley. Nobody past the south slip. We push in 2 steps. Arc on the left lane, open."}
+{"n":935,"kind":"place","name":"Kessler alley south slip","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Kessler alley south slip. Bess keeps the plywood for the push. 3 steps, arc on the left lane, open."}
+{"n":936,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, south slip. arc left open. 4 steps. The plywood stays for the push."}
+{"n":937,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the plywood at the Lot. Nobody past the south slip. We push in 5 steps. Arc on the left lane, open."}
