@@ -195,3 +195,6 @@
 {"n":195,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, east slip. arc left open. 8 steps. The hydrant stays for the push."}
 {"n":196,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the hydrant at Drydock. Nobody past the east slip. We push in 2 steps. Arc on the left lane, open."}
 {"n":197,"kind":"place","name":"Drydock east slip","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Drydock east slip. Nia keeps the hydrant for the push. 3 steps, arc on the left lane, open."}
+{"n":198,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, east slip. arc left open. 4 steps. The hydrant stays for the push."}
+{"n":199,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the hydrant at Drydock. Nobody past the east slip. We push in 5 steps. Arc on the left lane, open."}
+{"n":200,"kind":"place","name":"Drydock east slip","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Drydock east slip. Ivo keeps the hydrant for the push. 6 steps, arc on the left lane, open."}
