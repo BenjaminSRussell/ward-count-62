@@ -776,3 +776,6 @@
 {"n":776,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Last Light, north roof. arc left open. 6 steps. The radio coil stays for the push."}
 {"n":777,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the radio coil at South stair. Nobody past the north roof. We push in 7 steps. Arc on the left lane, open."}
 {"n":778,"kind":"place","name":"South stair north roof","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"South stair north roof. Matt keeps the radio coil for the push. 8 steps, arc on the left lane, open."}
+{"n":779,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at South stair, north roof. arc left open. 2 steps. The radio coil stays for the push."}
+{"n":780,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the radio coil at South stair. Nobody past the north roof. We push in 3 steps. Arc on the left lane, open."}
+{"n":781,"kind":"place","name":"South stair north roof","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"South stair north roof. Nia keeps the radio coil for the push. 4 steps, arc on the left lane, open."}
