@@ -218,3 +218,6 @@
 {"n":218,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the hydrant at Drydock. Nobody past the north slip. We push in 8 steps. Arc on the left lane, open."}
 {"n":219,"kind":"place","name":"Drydock north slip","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Drydock north slip. Bess keeps the hydrant for the push. 2 steps, arc on the left lane, open."}
 {"n":220,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, north slip. arc left open. 3 steps. The hydrant stays for the push."}
+{"n":221,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the hydrant at High line. Nobody past the north slip. We push in 4 steps. Arc on the left lane, open."}
+{"n":222,"kind":"place","name":"High line north slip","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"High line north slip. Matt keeps the hydrant for the push. 5 steps, arc on the left lane, open."}
+{"n":223,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at High line, north slip. arc left open. 6 steps. The hydrant stays for the push."}
