@@ -112,3 +112,6 @@
 {"n":112,"kind":"place","name":"Mast yard west slip","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Mast yard west slip. Ivo keeps the hydrant for the push. 4 steps, arc on the left lane, open."}
 {"n":113,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, west slip. arc left open. 5 steps. The hydrant stays for the push."}
 {"n":114,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the hydrant at Mast yard. Nobody past the west slip. We push in 6 steps. Arc on the left lane, open."}
+{"n":115,"kind":"place","name":"Mast yard west slip","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Mast yard west slip. Bess keeps the hydrant for the push. 7 steps, arc on the left lane, open."}
+{"n":116,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, west slip. arc left open. 8 steps. The hydrant stays for the push."}
+{"n":117,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the hydrant at Last Light. Nobody past the west slip. We push in 2 steps. Arc on the left lane, open."}
