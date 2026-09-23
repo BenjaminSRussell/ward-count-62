@@ -246,3 +246,6 @@
 {"n":246,"kind":"place","name":"Kessler alley north slip","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Kessler alley north slip. Matt keeps the barrel for the push. 8 steps, arc on the left lane, open."}
 {"n":247,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Kessler alley, north slip. arc left open. 2 steps. The barrel stays for the push."}
 {"n":248,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the barrel at Kessler alley. Nobody past the north slip. We push in 3 steps. Arc on the left lane, open."}
+{"n":249,"kind":"place","name":"Kessler alley north slip","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Kessler alley north slip. Nia keeps the barrel for the push. 4 steps, arc on the left lane, open."}
+{"n":250,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, north slip. arc left open. 5 steps. The barrel stays for the push."}
+{"n":251,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the barrel at Kessler alley. Nobody past the north slip. We push in 6 steps. Arc on the left lane, open."}
