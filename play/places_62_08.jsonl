@@ -84,3 +84,6 @@
 {"n":84,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, north slip. arc left open. 6 steps. The shutter stays for the push."}
 {"n":85,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the shutter at Kessler alley. Nobody past the north slip. We push in 7 steps. Arc on the left lane, open."}
 {"n":86,"kind":"place","name":"Kessler alley north slip","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Kessler alley north slip. Matt keeps the shutter for the push. 8 steps, arc on the left lane, open."}
+{"n":87,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Kessler alley, north slip. arc left open. 2 steps. The shutter stays for the push."}
+{"n":88,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the shutter at Kessler alley. Nobody past the north slip. We push in 3 steps. Arc on the left lane, open."}
+{"n":89,"kind":"place","name":"Kessler alley north slip","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Kessler alley north slip. Nia keeps the shutter for the push. 4 steps, arc on the left lane, open."}
