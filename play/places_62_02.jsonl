@@ -705,3 +705,6 @@
 {"n":705,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Ward gate, south roof. arc left open. 3 steps. The radio coil stays for the push."}
 {"n":706,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the radio coil at Ward gate. Nobody past the south roof. We push in 4 steps. Arc on the left lane, open."}
 {"n":707,"kind":"place","name":"Ward gate south roof","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Ward gate south roof. Bess keeps the radio coil for the push. 5 steps, arc on the left lane, open."}
+{"n":708,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, south roof. arc left open. 6 steps. The radio coil stays for the push."}
+{"n":709,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the radio coil at Kessler alley. Nobody past the south roof. We push in 7 steps. Arc on the left lane, open."}
+{"n":710,"kind":"place","name":"Kessler alley south roof","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Kessler alley south roof. Matt keeps the radio coil for the push. 8 steps, arc on the left lane, open."}
