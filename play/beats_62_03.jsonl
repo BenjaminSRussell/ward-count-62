@@ -825,3 +825,6 @@
 {"n":825,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the rebar at Clinic roof. Nobody past the west slip. We push in 3 steps. Arc on the left lane, open."}
 {"n":826,"kind":"place","name":"Clinic roof west slip","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Clinic roof west slip. Matt keeps the rebar for the push. 4 steps, arc on the left lane, open."}
 {"n":827,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Clinic roof, west slip. arc left open. 5 steps. The rebar stays for the push."}
+{"n":828,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the rebar at Clinic roof. Nobody past the west slip. We push in 6 steps. Arc on the left lane, open."}
+{"n":829,"kind":"place","name":"Clinic roof west slip","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Clinic roof west slip. Nia keeps the rebar for the push. 7 steps, arc on the left lane, open."}
+{"n":830,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Clinic roof, west slip. arc left open. 8 steps. The rebar stays for the push."}
