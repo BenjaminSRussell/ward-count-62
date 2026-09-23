@@ -446,3 +446,6 @@
 {"n":446,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at South stair, north roof. arc left open. 5 steps. The drum stays for the push."}
 {"n":447,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the drum at South stair. Nobody past the north roof. We push in 6 steps. Arc on the left lane, open."}
 {"n":448,"kind":"place","name":"South stair north roof","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"South stair north roof. Ivo keeps the drum for the push. 7 steps, arc on the left lane, open."}
+{"n":449,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, north roof. arc left open. 8 steps. The drum stays for the push."}
+{"n":450,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the drum at South stair. Nobody past the north roof. We push in 2 steps. Arc on the left lane, open."}
+{"n":451,"kind":"place","name":"South stair north roof","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"South stair north roof. Bess keeps the drum for the push. 3 steps, arc on the left lane, open."}
