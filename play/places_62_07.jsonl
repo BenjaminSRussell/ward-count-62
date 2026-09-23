@@ -178,3 +178,6 @@
 {"n":178,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the pier, north slip. arc left open. 3 steps. The hydrant stays for the push."}
 {"n":179,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the hydrant at the pier. Nobody past the north slip. We push in 4 steps. Arc on the left lane, open."}
 {"n":180,"kind":"place","name":"the pier north slip","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"the pier north slip. Ivo keeps the hydrant for the push. 5 steps, arc on the left lane, open."}
+{"n":181,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, north slip. arc left open. 6 steps. The hydrant stays for the push."}
+{"n":182,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the hydrant at the pier. Nobody past the north slip. We push in 7 steps. Arc on the left lane, open."}
+{"n":183,"kind":"place","name":"the pier north slip","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"the pier north slip. Bess keeps the hydrant for the push. 8 steps, arc on the left lane, open."}
