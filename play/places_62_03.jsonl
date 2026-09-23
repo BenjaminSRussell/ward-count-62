@@ -509,3 +509,6 @@
 {"n":509,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, west slip. arc left open. 2 steps. The crate stays for the push."}
 {"n":510,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the crate at Switchyard. Nobody past the west slip. We push in 3 steps. Arc on the left lane, open."}
 {"n":511,"kind":"place","name":"Switchyard west slip","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Switchyard west slip. Bess keeps the crate for the push. 4 steps, arc on the left lane, open."}
+{"n":512,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, west slip. arc left open. 5 steps. The crate stays for the push."}
+{"n":513,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the crate at Drydock. Nobody past the west slip. We push in 6 steps. Arc on the left lane, open."}
+{"n":514,"kind":"place","name":"Drydock west slip","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Drydock west slip. Matt keeps the crate for the push. 7 steps, arc on the left lane, open."}
