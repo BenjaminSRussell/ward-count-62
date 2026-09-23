@@ -387,3 +387,6 @@
 {"n":387,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the awning at High line. Nobody past the east slip. We push in 3 steps. Arc on the left lane, open."}
 {"n":388,"kind":"place","name":"High line east slip","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"High line east slip. Ivo keeps the awning for the push. 4 steps, arc on the left lane, open."}
 {"n":389,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, east slip. arc left open. 5 steps. The awning stays for the push."}
+{"n":390,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the awning at High line. Nobody past the east slip. We push in 6 steps. Arc on the left lane, open."}
+{"n":391,"kind":"place","name":"High line east slip","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"High line east slip. Bess keeps the awning for the push. 7 steps, arc on the left lane, open."}
+{"n":392,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, east slip. arc left open. 8 steps. The awning stays for the push."}
