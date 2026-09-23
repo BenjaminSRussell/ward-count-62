@@ -699,3 +699,6 @@
 {"n":699,"kind":"place","name":"Ward gate south roof","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Ward gate south roof. Bess keeps the rebar for the push. 5 steps, arc on the left lane, open."}
 {"n":700,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, south roof. arc left open. 6 steps. The rebar stays for the push."}
 {"n":701,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the rebar at Kessler alley. Nobody past the south roof. We push in 7 steps. Arc on the left lane, open."}
+{"n":702,"kind":"place","name":"Kessler alley south roof","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Kessler alley south roof. Matt keeps the rebar for the push. 8 steps, arc on the left lane, open."}
+{"n":703,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Kessler alley, south roof. arc left open. 2 steps. The rebar stays for the push."}
+{"n":704,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the rebar at Kessler alley. Nobody past the south roof. We push in 3 steps. Arc on the left lane, open."}
