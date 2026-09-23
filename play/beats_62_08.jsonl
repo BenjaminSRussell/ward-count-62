@@ -271,3 +271,6 @@
 {"n":271,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the awning at the Lot. Nobody past the north slip. We push in 4 steps. Arc on the left lane, open."}
 {"n":272,"kind":"place","name":"the Lot north slip","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"the Lot north slip. Ivo keeps the awning for the push. 5 steps, arc on the left lane, open."}
 {"n":273,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, north slip. arc left open. 6 steps. The awning stays for the push."}
+{"n":274,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the awning at the Lot. Nobody past the north slip. We push in 7 steps. Arc on the left lane, open."}
+{"n":275,"kind":"place","name":"the Lot north slip","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"the Lot north slip. Bess keeps the awning for the push. 8 steps, arc on the left lane, open."}
+{"n":276,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, north slip. arc left open. 2 steps. The awning stays for the push."}
