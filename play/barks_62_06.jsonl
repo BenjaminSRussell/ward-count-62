@@ -556,3 +556,6 @@
 {"n":556,"kind":"place","name":"High line east slip","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"High line east slip. Ivo keeps the drum for the push. 4 steps, arc on the left lane, open."}
 {"n":557,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, east slip. arc left open. 5 steps. The drum stays for the push."}
 {"n":558,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the drum at High line. Nobody past the east slip. We push in 6 steps. Arc on the left lane, open."}
+{"n":559,"kind":"place","name":"High line east slip","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"High line east slip. Bess keeps the drum for the push. 7 steps, arc on the left lane, open."}
+{"n":560,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, east slip. arc left open. 8 steps. The drum stays for the push."}
+{"n":561,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the badge door at Ward gate. Nobody past the east slip. We push in 2 steps. Arc on the left lane, open."}
