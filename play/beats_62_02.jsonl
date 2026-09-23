@@ -544,3 +544,6 @@
 {"n":544,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the badge door at Kessler alley. Nobody past the south roof. We push in 3 steps. Arc on the left lane, open."}
 {"n":545,"kind":"place","name":"Kessler alley south roof","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Kessler alley south roof. Nia keeps the badge door for the push. 4 steps, arc on the left lane, open."}
 {"n":546,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, south roof. arc left open. 5 steps. The badge door stays for the push."}
+{"n":547,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the badge door at Kessler alley. Nobody past the south roof. We push in 6 steps. Arc on the left lane, open."}
+{"n":548,"kind":"place","name":"Kessler alley south roof","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Kessler alley south roof. Ivo keeps the badge door for the push. 7 steps, arc on the left lane, open."}
+{"n":549,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, south roof. arc left open. 8 steps. The badge door stays for the push."}
