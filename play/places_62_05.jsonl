@@ -354,3 +354,6 @@
 {"n":354,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, east slip. arc left open. 6 steps. The barrel stays for the push."}
 {"n":355,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the barrel at Switchyard. Nobody past the east slip. We push in 7 steps. Arc on the left lane, open."}
 {"n":356,"kind":"place","name":"Switchyard east slip","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Switchyard east slip. Ivo keeps the barrel for the push. 8 steps, arc on the left lane, open."}
+{"n":357,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, east slip. arc left open. 2 steps. The barrel stays for the push."}
+{"n":358,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the barrel at Switchyard. Nobody past the east slip. We push in 3 steps. Arc on the left lane, open."}
+{"n":359,"kind":"place","name":"Switchyard east slip","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Switchyard east slip. Bess keeps the barrel for the push. 4 steps, arc on the left lane, open."}
