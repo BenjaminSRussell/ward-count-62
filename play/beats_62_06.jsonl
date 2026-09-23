@@ -852,3 +852,6 @@
 {"n":852,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the radio coil at Clinic roof. Nobody past the east slip. We push in 6 steps. Arc on the left lane, open."}
 {"n":853,"kind":"place","name":"Clinic roof east slip","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Clinic roof east slip. Nia keeps the radio coil for the push. 7 steps, arc on the left lane, open."}
 {"n":854,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Clinic roof, east slip. arc left open. 8 steps. The radio coil stays for the push."}
+{"n":855,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the radio coil at Clinic roof. Nobody past the east slip. We push in 2 steps. Arc on the left lane, open."}
+{"n":856,"kind":"place","name":"Clinic roof east slip","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Clinic roof east slip. Ivo keeps the radio coil for the push. 3 steps, arc on the left lane, open."}
+{"n":857,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Clinic roof, east slip. arc left open. 4 steps. The radio coil stays for the push."}
