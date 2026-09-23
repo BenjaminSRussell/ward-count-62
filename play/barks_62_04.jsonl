@@ -126,3 +126,6 @@
 {"n":126,"kind":"place","name":"Last Light west slip","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Last Light west slip. Matt keeps the shutter for the push. 3 steps, arc on the left lane, open."}
 {"n":127,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Last Light, west slip. arc left open. 4 steps. The shutter stays for the push."}
 {"n":128,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the shutter at Last Light. Nobody past the west slip. We push in 5 steps. Arc on the left lane, open."}
+{"n":129,"kind":"place","name":"Last Light west slip","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Last Light west slip. Nia keeps the shutter for the push. 6 steps, arc on the left lane, open."}
+{"n":130,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Last Light, west slip. arc left open. 7 steps. The shutter stays for the push."}
+{"n":131,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the shutter at Last Light. Nobody past the west slip. We push in 8 steps. Arc on the left lane, open."}
