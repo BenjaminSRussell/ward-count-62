@@ -350,3 +350,6 @@
 {"n":350,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the barrel at the pier. Nobody past the north slip. We push in 7 steps. Arc on the left lane, open."}
 {"n":351,"kind":"place","name":"the pier north slip","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"the pier north slip. Bess keeps the barrel for the push. 8 steps, arc on the left lane, open."}
 {"n":352,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, north slip. arc left open. 2 steps. The barrel stays for the push."}
+{"n":353,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the barrel at Clinic roof. Nobody past the north slip. We push in 3 steps. Arc on the left lane, open."}
+{"n":354,"kind":"place","name":"Clinic roof north slip","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Clinic roof north slip. Matt keeps the barrel for the push. 4 steps, arc on the left lane, open."}
+{"n":355,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Clinic roof, north slip. arc left open. 5 steps. The barrel stays for the push."}
