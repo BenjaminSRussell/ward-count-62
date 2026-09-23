@@ -592,3 +592,6 @@
 {"n":592,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Stockyard fence, west slip. arc left open. 7 steps. The badge door stays for the push."}
 {"n":593,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the badge door at Mall court. Nobody past the west slip. We push in 8 steps. Arc on the left lane, open."}
 {"n":594,"kind":"place","name":"Mall court west slip","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Mall court west slip. Matt keeps the badge door for the push. 2 steps, arc on the left lane, open."}
+{"n":595,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mall court, west slip. arc left open. 3 steps. The badge door stays for the push."}
+{"n":596,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the badge door at Mall court. Nobody past the west slip. We push in 4 steps. Arc on the left lane, open."}
+{"n":597,"kind":"place","name":"Mall court west slip","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Mall court west slip. Nia keeps the badge door for the push. 5 steps, arc on the left lane, open."}
