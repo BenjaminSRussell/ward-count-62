@@ -259,3 +259,6 @@
 {"n":259,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the awning at Kessler alley. Nobody past the north slip. We push in 6 steps. Arc on the left lane, open."}
 {"n":260,"kind":"place","name":"Kessler alley north slip","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Kessler alley north slip. Ivo keeps the awning for the push. 7 steps, arc on the left lane, open."}
 {"n":261,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, north slip. arc left open. 8 steps. The awning stays for the push."}
+{"n":262,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the awning at Kessler alley. Nobody past the north slip. We push in 2 steps. Arc on the left lane, open."}
+{"n":263,"kind":"place","name":"Kessler alley north slip","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Kessler alley north slip. Bess keeps the awning for the push. 3 steps, arc on the left lane, open."}
+{"n":264,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, north slip. arc left open. 4 steps. The awning stays for the push."}
