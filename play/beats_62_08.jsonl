@@ -679,3 +679,6 @@
 {"n":679,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the badge door at South stair. Nobody past the north slip. We push in 6 steps. Arc on the left lane, open."}
 {"n":680,"kind":"place","name":"South stair north slip","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"South stair north slip. Ivo keeps the badge door for the push. 7 steps, arc on the left lane, open."}
 {"n":681,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, north slip. arc left open. 8 steps. The badge door stays for the push."}
+{"n":682,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the badge door at South stair. Nobody past the north slip. We push in 2 steps. Arc on the left lane, open."}
+{"n":683,"kind":"place","name":"South stair north slip","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"South stair north slip. Bess keeps the badge door for the push. 3 steps, arc on the left lane, open."}
+{"n":684,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, north slip. arc left open. 4 steps. The badge door stays for the push."}
