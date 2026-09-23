@@ -450,3 +450,6 @@
 {"n":450,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the crate at Mast yard. Nobody past the west slip. We push in 6 steps. Arc on the left lane, open."}
 {"n":451,"kind":"place","name":"Mast yard west slip","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Mast yard west slip. Bess keeps the crate for the push. 7 steps, arc on the left lane, open."}
 {"n":452,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, west slip. arc left open. 8 steps. The crate stays for the push."}
+{"n":453,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the crate at Last Light. Nobody past the west slip. We push in 2 steps. Arc on the left lane, open."}
+{"n":454,"kind":"place","name":"Last Light west slip","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Last Light west slip. Matt keeps the crate for the push. 3 steps, arc on the left lane, open."}
+{"n":455,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Last Light, west slip. arc left open. 4 steps. The crate stays for the push."}
