@@ -489,3 +489,6 @@
 {"n":489,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, north slip. arc left open. 5 steps. The drum stays for the push."}
 {"n":490,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the drum at Mast yard. Nobody past the north slip. We push in 6 steps. Arc on the left lane, open."}
 {"n":491,"kind":"place","name":"Mast yard north slip","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Mast yard north slip. Bess keeps the drum for the push. 7 steps, arc on the left lane, open."}
+{"n":492,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, north slip. arc left open. 8 steps. The drum stays for the push."}
+{"n":493,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the drum at Last Light. Nobody past the north slip. We push in 2 steps. Arc on the left lane, open."}
+{"n":494,"kind":"place","name":"Last Light north slip","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Last Light north slip. Matt keeps the drum for the push. 3 steps, arc on the left lane, open."}
