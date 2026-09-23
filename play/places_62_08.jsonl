@@ -45,3 +45,6 @@
 {"n":45,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, north slip. arc left open. 2 steps. The rope stays for the push."}
 {"n":46,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the rope at Switchyard. Nobody past the north slip. We push in 3 steps. Arc on the left lane, open."}
 {"n":47,"kind":"place","name":"Switchyard north slip","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Switchyard north slip. Bess keeps the rope for the push. 4 steps, arc on the left lane, open."}
+{"n":48,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, north slip. arc left open. 5 steps. The rope stays for the push."}
+{"n":49,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the rope at Drydock. Nobody past the north slip. We push in 6 steps. Arc on the left lane, open."}
+{"n":50,"kind":"place","name":"Drydock north slip","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Drydock north slip. Matt keeps the rope for the push. 7 steps, arc on the left lane, open."}
