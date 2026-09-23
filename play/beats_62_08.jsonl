@@ -787,3 +787,6 @@
 {"n":787,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the radio coil at Stockyard fence. Nobody past the north slip. We push in 2 steps. Arc on the left lane, open."}
 {"n":788,"kind":"place","name":"Stockyard fence north slip","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Stockyard fence north slip. Ivo keeps the radio coil for the push. 3 steps, arc on the left lane, open."}
 {"n":789,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, north slip. arc left open. 4 steps. The radio coil stays for the push."}
+{"n":790,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the radio coil at Stockyard fence. Nobody past the north slip. We push in 5 steps. Arc on the left lane, open."}
+{"n":791,"kind":"place","name":"Stockyard fence north slip","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Stockyard fence north slip. Bess keeps the radio coil for the push. 6 steps, arc on the left lane, open."}
+{"n":792,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Stockyard fence, north slip. arc left open. 7 steps. The radio coil stays for the push."}
